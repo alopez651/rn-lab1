@@ -1,12 +1,6 @@
 # React Native Lab 1
 
-### To follow along
-Welcome to our crash course on how to create a mobile app with React Native! Today's lab has four parts. You can check it out [here](https://www.notion.so/snapacademies/Day-2-July-7-2021-6f88934bc9944983bcf0535ada34d752). 
+# A little about me and my work are connected to the program 
 
-### To run 
-1. Fork this repo! 
-2. Git clone the forked repo. 
-3. In your terminal, run `expo start` 
-
-### Credits
-Credit for this lab goes to the [teaching team of CS47 at Stanford, 2021](https://docs.google.com/presentation/d/1I8-SL_rWhyWzau3azI54fmRsq66Qe-QY0EsgRrfbf5g/edit#slide=id.gae5ac78f08_10_0)!
+At the center is my SnapCode with my Bitmoji. 
+When you click the button it will give you websites to my LinkedIn and GitHub accounts. 
